@@ -9,6 +9,7 @@
     "serve": "vite preview",
     "lint": "eslint --ext .ts,.tsx,vue src/** --no-error-on-unmatched-pattern --quiet",
     "lint:fix": "eslint --ext .ts,.tsx,vue src/** --no-error-on-unmatched-pattern --quiet --fix",
+    "test": "node a.js",
     "prepare": "husky install"
   },
   "keywords": [],
