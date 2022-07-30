@@ -1,0 +1,3 @@
+- husky 是一个工具方便我们写 git hooks
+- lint-staged 每次提交只检查本次提交所修改的文件
+- commitlint 推荐我们使用 config-conventional 配置写 commit
